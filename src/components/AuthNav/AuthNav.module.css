@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+}
+
+.link {
+  color: #f7ebec;
+  font-size: 24px;
+}
+
+.link:hover,
+.link:focus {
+  color: #f7ebec;
+  scale: calc(1.07);
+  cursor: pointer;
+}
+
+.slash {
+  color: #f7ebec;
+  font-size: 24px;
+  margin: 0;
+}

@@ -1,0 +1,33 @@
+.wrapper {
+  display: flex;
+  
+  align-items: center;
+}
+
+.username {
+  font-size: 24px;
+  margin: 0;
+  color: #f7ebec;
+}
+
+.button {
+  background-color: transparent;
+  border-radius: 40px;
+}
+
+.button:hover,
+.button:focus,
+.button:active {
+    outline: none;
+     border: 1px solid transparent;
+}
+
+.icon {
+  color: #f7ebec;
+  font-size: 30px;
+}
+
+.icon:hover,
+.icon:focus {
+    scale: calc(1.07);
+}

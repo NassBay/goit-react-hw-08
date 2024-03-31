@@ -1,0 +1,21 @@
+.heading {
+  font-size: 70px;
+  text-align: center;
+  color: #006d77;
+}
+
+.descrpt {
+  width: 550px;
+  text-align: center;
+  margin: 0 auto;
+  color: #df7c9b;
+}
+
+.homeContainer {
+  height: 100vh;
+  padding: 100px;
+  background-image: url("/src/assets/call.png");
+  background-size: calc(60%);
+  background-repeat: no-repeat;
+  background-position: 55% 10%;
+}
