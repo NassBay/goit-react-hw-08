@@ -1,7 +1,7 @@
 import { useDispatch } from "react-redux";
 import { Formik, Form, Field, ErrorMessage } from "formik";
 import { register } from "../../redux/auth/operations";
-import css from "./RegistrationForm.module.css";
+import css from "./Registration.module.css";
 import * as Yup from "yup";
 import { IoPerson } from "react-icons/io5";
 import { RiLockPasswordFill } from "react-icons/ri";
