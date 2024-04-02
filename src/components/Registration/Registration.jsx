@@ -13,7 +13,7 @@ const CustomField = ({ icon: Icon, ...props }) => (
   </div>
 );
 
-export default function RegistrationForm() {
+export default function Registration() {
 
   const dispatch = useDispatch();
 
